@@ -264,7 +264,7 @@ public class App
     						+ "        \r\n"
     						+ "       \r\n"
     						+ "        <div class=\"copyright\">\r\n"
-    						+ "            &copy; 2017 My Blog. All rights reserved.\r\n"
+    						+ "            &copy; 2022 My Blog. All rights reserved.\r\n"
     						+ "        </div>\r\n"
     						+ "        \r\n"
     						+ "    </body>\r\n"
