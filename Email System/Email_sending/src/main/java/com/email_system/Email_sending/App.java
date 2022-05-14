@@ -76,7 +76,7 @@ public class App
     			//sent attachment
 
     			//file path
-    			String path = "C:\\Users\\Ajayb\\OneDrive\\Pictures\\GettyImages-185002046-5772f4153df78cb62ce1ad69.jpg";
+    			String path = "C:\\Users\\Ajayb\\Downloads\\Resume.pdf";
     			
     			MimeMultipart Multipart = new MimeMultipart();
     			
@@ -202,13 +202,6 @@ public class App
     						+ "    margin-top: -35px;\r\n"
     						+ "    margin-bottom: -25px;\r\n"
     						+ "}\r\n"
-    						+ "\r\n"
-    						+ ".copyright {\r\n"
-    						+ "    font-size: 8pt;\r\n"
-    						+ "    text-align: right;\r\n"
-    						+ "    padding-bottom: 10px;\r\n"
-    						+ "    color: grey;\r\n"
-    						+ "}\r\n"
     						+ "       </style>\r\n"
     						+ "    </head>\r\n"
     						+ "    \r\n"
@@ -261,11 +254,6 @@ public class App
     						+ "\r\n"
     						+ "        </div>\r\n"
     						+ "        <!-- Form section end -->\r\n"
-    						+ "        \r\n"
-    						+ "       \r\n"
-    						+ "        <div class=\"copyright\">\r\n"
-    						+ "            &copy; 2022 My Blog. All rights reserved.\r\n"
-    						+ "        </div>\r\n"
     						+ "        \r\n"
     						+ "    </body>\r\n"
     						+ "</html>","text/html");
